@@ -78,8 +78,6 @@ dependencies {
     testImplementation "org.seleniumhq.selenium:selenium-support:4.0.0"
     testRuntimeOnly "org.seleniumhq.selenium:selenium-chrome-driver:4.0.0"
     testRuntimeOnly "org.seleniumhq.selenium:selenium-firefox-driver:4.0.0"
-
-    implementation "org.grails:grails-datastore-gorm-hibernate5:7.3.1-SNAPSHOT-X"
 }
 
 bootRun {
